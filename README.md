@@ -1,2 +1,2 @@
 # drug-trial
-Code for NHSD drug trial exercise, using logistic regression.
+Non-refactored code for NHSD drug trial exercise, using logistic regression.
